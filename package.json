@@ -1,0 +1,24 @@
+{
+  "name": "submodul9.6",
+  "version": "1.0.0",
+  "description": "exercise 9.6 in Kodilla - Events in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PuszekHD/submodul9.6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PuszekHD/submodul9.6/issues"
+  },
+  "homepage": "https://github.com/PuszekHD/submodul9.6#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1"
+  }
+}
